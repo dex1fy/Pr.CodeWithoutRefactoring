@@ -1,0 +1,14 @@
+C:\Users\dexify\Desktop\WithoutRefactoring\WithoutRefactoring\obj\Debug\net9.0\WithoutRefactoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dexify\Desktop\WithoutRefactoring\WithoutRefactoring\obj\Debug\net9.0\WithoutRefactoring.AssemblyInfoInputs.cache
+C:\Users\dexify\Desktop\WithoutRefactoring\WithoutRefactoring\obj\Debug\net9.0\WithoutRefactoring.AssemblyInfo.cs
+C:\Users\dexify\Desktop\WithoutRefactoring\WithoutRefactoring\obj\Debug\net9.0\WithoutRefactoring.csproj.CoreCompileInputs.cache
+C:\Users\dexify\Desktop\WithoutRefactoring\WithoutRefactoring\bin\Debug\net9.0\WithoutRefactoring.exe
+C:\Users\dexify\Desktop\WithoutRefactoring\WithoutRefactoring\bin\Debug\net9.0\WithoutRefactoring.deps.json
+C:\Users\dexify\Desktop\WithoutRefactoring\WithoutRefactoring\bin\Debug\net9.0\WithoutRefactoring.runtimeconfig.json
+C:\Users\dexify\Desktop\WithoutRefactoring\WithoutRefactoring\bin\Debug\net9.0\WithoutRefactoring.dll
+C:\Users\dexify\Desktop\WithoutRefactoring\WithoutRefactoring\bin\Debug\net9.0\WithoutRefactoring.pdb
+C:\Users\dexify\Desktop\WithoutRefactoring\WithoutRefactoring\obj\Debug\net9.0\WithoutRefactoring.dll
+C:\Users\dexify\Desktop\WithoutRefactoring\WithoutRefactoring\obj\Debug\net9.0\refint\WithoutRefactoring.dll
+C:\Users\dexify\Desktop\WithoutRefactoring\WithoutRefactoring\obj\Debug\net9.0\WithoutRefactoring.pdb
+C:\Users\dexify\Desktop\WithoutRefactoring\WithoutRefactoring\obj\Debug\net9.0\WithoutRefactoring.genruntimeconfig.cache
+C:\Users\dexify\Desktop\WithoutRefactoring\WithoutRefactoring\obj\Debug\net9.0\ref\WithoutRefactoring.dll
